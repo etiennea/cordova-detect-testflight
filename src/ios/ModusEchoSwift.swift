@@ -7,7 +7,7 @@
 
     let msg = command.arguments[0] as? String ?? ""
 
-    if msg.characters.count > 0 {
+    if msg.count > 0 {
       let toastController: UIAlertController =
         UIAlertController(
           title: "",
