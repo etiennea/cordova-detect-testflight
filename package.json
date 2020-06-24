@@ -1,0 +1,28 @@
+{
+  "name": "cordova-detect-testflight",
+  "version": "0.0.1",
+  "description": "cordova-detect-testflightn",
+  "cordova": {
+    "id": "cordova-detect-testflight",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/etiennea/cordova-detect-testflight.git"
+  },
+  "keywords": [
+    "cordova",
+    "demo",
+    "modus",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Etienne Adriaenssen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/etiennea/cordova-detect-testflight/issues"
+  },
+  "homepage": "https://github.com/etiennea/cordova-detect-testflight#readme"
+} 
